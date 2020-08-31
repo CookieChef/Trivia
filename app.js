@@ -1,1 +1,3 @@
-console.log("Js file connected!")
+console.log("Test your luck!");
+
+
