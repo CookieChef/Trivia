@@ -11,7 +11,7 @@ $("#start").on("click", function () {
 var game = {
   correct: 0,
   wrong: 0,
-  counter: 10,  
+  counter: 300,  
 
   decrement: function () {
       game.counter --;
